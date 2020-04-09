@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Basic Portfolio on laravel famework version 5.3
+## Basic Portfolio on laravel framework version 5.3
 
 ## Project Overview on YouTube:
 
